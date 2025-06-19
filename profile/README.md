@@ -9,7 +9,7 @@
 🌱 We're growing an ecosystem of tools designed for transparency, control, and community.
 
 <p align="center">
-  <img src="https://github.com/2brackets/.github/blob/main/images/banner.png?raw=true" alt="Banner showing developers building together" width="1200" height="250"/>
+  <img src="https://github.com/2brackets/.github/blob/main/images/banner.png?raw=true" alt="Banner showing developers building together" width="1200" height="400"/>
 </p>
 
 ## 🧩 Projects
