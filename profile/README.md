@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/2brackets/.github/blob/main/images/banner.png?raw=true" alt="Banner showing developers building together" width="1200" height="400"/>
+  <img src="https://github.com/2brackets/.github/blob/main/images/banner.png?raw=true" alt="Banner showing developers building together" width="1200" height="500"/>
 </p>
 
 # 👋 Welcome to 2brackets
@@ -17,7 +17,7 @@ Want to contribute or collaborate? Check out [CONTRIBUTING.md](https://github.co
 
 ---
 
-<palign="center">
+<p align="center">
   <img src="https://github.com/2brackets/.github/blob/main/images/icon.png?raw=true" alt="2brackets logo" width="60" style="vertical-align: middle;"/>
 </p>
 
