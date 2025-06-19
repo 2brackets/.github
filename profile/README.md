@@ -1,16 +1,15 @@
 <p>
-  <img src="https://github.com/2brackets/.github/blob/main/images/icon.png?raw=true" alt="2brackets logo" width="100" style="vertical-align: middle;"/>
-  <span style="font-size: 2rem; font-weight: bold; vertical-align: middle; margin-left: 1rem;">2Brackets.com</span>
+  <img src="https://github.com/2brackets/.github/blob/main/images/icon.png?raw=true" alt="2brackets logo" width="80" style="vertical-align: middle;"/>
 </p>
 
-# 🚀 Welcome to 2brackets
+# 👋 Welcome to 2brackets
 
 2brackets is a home for innovative and secure open-source projects — starting with [VaultNest](https://github.com/2brackets/vaultnest.clients), a self-hosted digital vault for passwords, secrets, and documents.
 
 🌱 We're growing an ecosystem of tools designed for transparency, control, and community.
 
 <p align="center">
-  <img src="https://github.com/2brackets/.github/blob/main/images/banner.png?raw=true" alt="Banner showing developers building together" width="1200" height="180"/>
+  <img src="https://github.com/2brackets/.github/blob/main/images/banner.png?raw=true" alt="Banner showing developers building together" width="1200" height="250"/>
 </p>
 
 ## 🧩 Projects
