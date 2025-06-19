@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/logo.png" alt="2brackets logo" width="120"/>
+  <img src="https://github.com/2brackets/.github/blob/main/images/logo.png?raw=true" alt="2brackets logo" width="120"/>
 </p>
 
 # Welcome to 2brackets
@@ -9,7 +9,7 @@
  We're growing an ecosystem of tools designed for transparency, control, and community.
 
  <p align="center">
-  <img src="images/banner.png" alt="Banner showing developers building together" width="800"/>
+  <img src="https://github.com/2brackets/.github/blob/main/images/banner.png?raw=true" alt="Banner showing developers building together" width="800"/>
 </p>
 
 ## Projects
