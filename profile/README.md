@@ -1,12 +1,24 @@
-## Hi there 👋
+<p align="center">
+  <img src="images/logo.png" alt="2brackets logo" width="120"/>
+</p>
 
-<!--
+# Welcome to 2brackets
 
-**Here are some ideas to get you started:**
+2brackets is a home for innovative and secure open-source projects — starting with [VaultNest](https://github.com/2brackets/vaultnest.clients), a self-hosted digital vault for passwords, secrets, and documents.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+ We're growing an ecosystem of tools designed for transparency, control, and community.
+
+ <p align="center">
+  <img src="images/banner.png" alt="Banner showing developers building together" width="800"/>
+</p>
+
+## Projects
+- **VaultNest** — A secure, modular vault system (password manager, file storage & more)
+- More projects coming soon...
+
+## Join us
+Want to contribute or collaborate? Check out [CONTRIBUTING.md](https://github.com/2brackets/.github/blob/main/CONTRIBUTING.md) and let's build together.
+
+---
+
+<p align="center">Made with ❤️ by the 2brackets team.</p>
